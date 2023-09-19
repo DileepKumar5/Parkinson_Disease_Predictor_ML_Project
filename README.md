@@ -36,8 +36,7 @@ Attached files:
 2) parkinsons.csv (Data File From UCI)
 3) Test Data For Parkinson.txt (For Testing)
 4) SVM visualization of linear and polynomial kernal.ipynb (SVM Visualization Code)
-5) ParkinsonsDisease_LatexReport.pdf (Project Report)
-6) MachineLearningProject_LatexFormat.zip (Latex Files Folder)
+5) GUI
 
 
 Link For Jupyter Code-Files:
